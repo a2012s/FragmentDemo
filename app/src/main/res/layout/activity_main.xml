@@ -11,11 +11,8 @@
     <FrameLayout
         android:id="@+id/fragment"
         android:layout_width="match_parent"
-        android:layout_height="100dp">
+        android:layout_height="300dp">
     </FrameLayout>
-
-
-
 
     <android.support.design.widget.BottomNavigationView
         android:id="@+id/navigation"

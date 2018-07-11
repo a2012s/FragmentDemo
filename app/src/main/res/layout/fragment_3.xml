@@ -1,14 +1,15 @@
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
-             xmlns:tools="http://schemas.android.com/tools"
-             android:layout_width="match_parent"
-             android:layout_height="match_parent"
-             tools:context="com.example.lx.fragmentdemo.Fragment3">
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="300dp"
+    android:background="@android:color/holo_red_light"
+    tools:context="com.example.lx.fragmentdemo.Fragment3">
 
     <!-- TODO: Update blank fragment layout -->
     <TextView
         android:id="@+id/text3"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="新建fragment3"/>
+        android:text="新建fragment3" />
 
 </FrameLayout>
